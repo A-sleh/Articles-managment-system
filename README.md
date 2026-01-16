@@ -1,4 +1,4 @@
-# 📚 Articles Management System with Authentication 
+# 📚 Articles Management System with Authentication (Next.js using pages router)
 Base Dashboard built with Next.js + React + TypeScript + TailwindCSS with full Arabic and English support.
 The application must use Zustand as the single source of truth for state management.
 
